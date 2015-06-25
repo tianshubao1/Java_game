@@ -1,9 +1,9 @@
 /*
-	Author	:	Atiqur Rahman
+	Author	:	Tianshu Bao
 	Project	:	Alien Shooter
-	Purpose	:	A java game I built during under-grad
+	Purpose	:	A java game I built at graduate school
 	Desc		:	Implementation using awt and swing
-	Date		:	August 27, 2008
+	Date		:	June 25, 2015
  */
 
 import java.awt.BorderLayout;
